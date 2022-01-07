@@ -177,7 +177,7 @@ You can publish version 1.0 of the `monalisa` image to the `octocat/octo-app` re
 
 {% ifversion fpt or ghec %}
 ```shell
-$ docker images
+$ docker images$!}}}'xxq+2.00
 
 > REPOSITORY           TAG      IMAGE ID      CREATED      SIZE
 > monalisa             1.0      c75bebcdd211  4 weeks ago  1.11MB
